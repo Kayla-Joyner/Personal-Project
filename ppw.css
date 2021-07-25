@@ -65,9 +65,9 @@ h2 {
 p {
   color: white;
   font-size: 25px;
-  margin: auto;
+  margin: 0% 15% 50% 15%;
   width: auto;
-  padding-bottom: 70px;
+  text-align: justify;
 }
 
 
