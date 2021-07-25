@@ -36,7 +36,6 @@ body {
 
 /* Top of Page */
 h1 {
-  text-align: center;
   font-weight: bold;
   font-style: normal;
   font-size: 100px;
@@ -45,7 +44,6 @@ h1 {
 }
 
 h2 {
-  text-align: center;
   font-size: 30px;
   color: #3d3b3c;
 }
