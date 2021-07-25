@@ -71,6 +71,10 @@ p {
   text-align: justify;
 }
 
+#greeter{
+  padding: 5px;
+  margin: auto;
+}
 
 /* Footer */
   /* LinkedIn Button */
