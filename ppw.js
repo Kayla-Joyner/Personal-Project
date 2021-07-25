@@ -1,6 +1,6 @@
 function toggleDarkMode(){
   var bodyElement=document.getElementById("mainbackground");
-  var darkNavBar=document.getElementsbyClassName("navbar");
+  var darkNavBar=document.getElementsByClassName("navbar");
   if (bodyElement.style.background=='sienna'){
     bodyElement.style.background='#cdb9ac';
     darkNavBar.style.background='white';
